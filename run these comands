@@ -1,0 +1,11 @@
+node .\printFileMio.js '.\Salmos 27.txt'
+node .\print_raw.js
+
+falta averiguar como cambiar font a garamond en txt no me funciono investigar|
+
+version 0.12.0 de npm
+
+nvm use 0.12.0
+ver si lo compilo en una lib para ser usada en npm moderno
+
+ejemplo sauqe aca https://github.com/tojocky/node-printer/blob/master/examples/printFile.js
